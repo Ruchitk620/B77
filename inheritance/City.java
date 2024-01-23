@@ -1,4 +1,4 @@
-package com.tnsif.inheritance;
+package inheritance;
 
 public class City extends State {
 	private String cityName;
