@@ -1,4 +1,4 @@
-package com.tnsif.exceptionhandling;
+package exceptionhandling;
 
 public class InvalidAgeException extends Exception {
 	private String message;
