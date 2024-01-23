@@ -1,4 +1,4 @@
-package com.tnsif.inheritance;
+package inheritance;
 
 public class Country {
 	private String countryName;
