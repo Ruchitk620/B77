@@ -1,5 +1,5 @@
 //Program to demonstrate Bank interface
-package com.tnsif.multithreading.synchronization;
+package multithreading.synchronization;
 
 public interface Bank {
 	static final int MINBAL=5000;
