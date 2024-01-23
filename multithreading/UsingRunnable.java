@@ -1,4 +1,4 @@
-package com.tnsif.multithreading;
+package multithreading;
 
 public class UsingRunnable implements Runnable {
 	private int h, l;
