@@ -1,4 +1,4 @@
-package com.tnsif.langpackage;
+package langpackage;
 
 public class StringComparisonDemo {
 
