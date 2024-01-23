@@ -1,5 +1,5 @@
 //Program to demonstrate method overriding - Runtime Polymorphism
-package com.tnsif.polymorphism.overriding;
+package polymorphism.overriding;
 
 //subclass
 public class HDFC extends RBI {
