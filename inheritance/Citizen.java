@@ -1,4 +1,4 @@
-package com.tnsif.inheritance;
+package inheritance;
 
 public class Citizen {
 	private String name;
