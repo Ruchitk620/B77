@@ -1,4 +1,4 @@
-package com.tnsif.arrays;
+package arrays;
 
 import java.util.Scanner;
 
