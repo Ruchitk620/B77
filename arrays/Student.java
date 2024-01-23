@@ -1,4 +1,4 @@
-package com.tnsif.arrays;
+package arrays;
 
 public class Student {
 	private int rollNo;
