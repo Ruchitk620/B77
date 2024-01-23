@@ -1,5 +1,5 @@
 //Program to demonstrate abstraction
-package com.tnsif.abstraction;
+package abstraction;
 
 public class Rectangle extends Shape{
 	private float width, height;
