@@ -1,5 +1,5 @@
 //Account class
-package com.tnsif.interfaces.implementinginterfaces;
+package interfaces.implementinginterfaces;
 
 public class Account {
  private int accNo;
