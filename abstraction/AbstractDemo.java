@@ -1,5 +1,5 @@
 //Program to demonstrate abstraction
-package com.abstraction;
+package abstraction;
 
 
 public class AbstractDemo {
