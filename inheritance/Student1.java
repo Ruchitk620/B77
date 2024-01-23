@@ -1,4 +1,4 @@
-package com.tnsif.inheritance;
+package inheritance;
 
 public class Student1 extends Person {
 	private String clas;
