@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.tnsif.basics;
+package basics;
 
 /**
  * @author Sagar
