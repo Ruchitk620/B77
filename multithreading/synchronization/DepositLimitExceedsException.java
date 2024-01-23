@@ -1,5 +1,5 @@
 //Program to demonstrate User Defined Exception class
-package com.tnsif.multithreading.synchronization;
+package multithreading.synchronization;
 
 public class DepositLimitExceedsException extends Exception {
 
