@@ -1,5 +1,5 @@
 //Program to demonstrate abstraction
-package com.tnsif.abstraction;
+package com.abstraction;
 
 
 public class AbstractDemo {
