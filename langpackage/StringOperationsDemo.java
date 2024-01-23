@@ -1,4 +1,4 @@
-package com.tnsif.langpackage;
+package langpackage;
 
 public class StringOperationsDemo {
 	public static void main(String[] args) {
