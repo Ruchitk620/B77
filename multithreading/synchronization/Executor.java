@@ -1,5 +1,5 @@
 //Program to demonstrate concurrency
-package com.tnsif.multithreading.synchronization;
+package multithreading.synchronization;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
