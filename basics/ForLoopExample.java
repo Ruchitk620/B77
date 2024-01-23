@@ -1,4 +1,4 @@
-package com.tnsif.basics;
+package basics;
 
 public class ForLoopExample {
 	static int i=5;
