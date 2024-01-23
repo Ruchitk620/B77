@@ -1,4 +1,4 @@
-package com.tnsif.exceptionhandling;
+package exceptionhandling;
 
 import java.util.Scanner;
 
