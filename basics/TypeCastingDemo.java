@@ -1,4 +1,4 @@
-package com.tnsif.basics;
+package basics;
 
 public class TypeCastingDemo {
 	public static void main(String[] args) {
