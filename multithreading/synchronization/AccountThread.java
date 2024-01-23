@@ -1,5 +1,5 @@
 //Program to demonstrate Thread Synchronization - Account Thread Class
-package com.tnsif.multithreading.synchronization;
+package multithreading.synchronization;
 
 public class AccountThread extends Thread{
 	private Account acc;
