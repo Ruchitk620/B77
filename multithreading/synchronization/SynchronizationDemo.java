@@ -1,5 +1,5 @@
 //Program to demonstrate Thread Synchronization
-package com.tnsif.multithreading.synchronization;
+package multithreading.synchronization;
 public class SynchronizationDemo {
 
 	public static void main(String[] args) {
