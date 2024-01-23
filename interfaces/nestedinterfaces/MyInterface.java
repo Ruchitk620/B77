@@ -1,5 +1,5 @@
 //Nested Interface
-package com.tnsif.interfaces.nestedinterfaces;
+package interfaces.nestedinterfaces;
 
 public interface MyInterface {
 	 void calculateArea();
